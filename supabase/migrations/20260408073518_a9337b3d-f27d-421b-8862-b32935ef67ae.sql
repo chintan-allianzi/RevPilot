@@ -1,0 +1,1 @@
+ALTER TABLE saved_contacts ADD COLUMN IF NOT EXISTS instantly_variables JSONB;

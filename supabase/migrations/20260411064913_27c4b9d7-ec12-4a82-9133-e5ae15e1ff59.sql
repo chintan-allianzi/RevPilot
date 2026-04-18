@@ -1,0 +1,1 @@
+ALTER TABLE public.lead_stages ADD COLUMN default_probability numeric NOT NULL DEFAULT 0;

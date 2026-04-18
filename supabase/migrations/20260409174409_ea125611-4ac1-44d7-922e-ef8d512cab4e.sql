@@ -1,0 +1,1 @@
+ALTER TABLE public.verticals ADD COLUMN IF NOT EXISTS default_intent_config JSONB;

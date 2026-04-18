@@ -1,0 +1,2 @@
+ALTER TABLE public.verticals ADD COLUMN IF NOT EXISTS default_industries TEXT[] DEFAULT '{}';
+ALTER TABLE public.verticals ADD COLUMN IF NOT EXISTS default_exclude_industries TEXT[] DEFAULT ARRAY['Staffing and Recruiting'];

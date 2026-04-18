@@ -1,0 +1,1 @@
+ALTER TABLE public.saved_contacts ADD COLUMN IF NOT EXISTS ai_enrichment JSONB;

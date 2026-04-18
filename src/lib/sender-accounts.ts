@@ -1,0 +1,7 @@
+export const SENDER_ACCOUNTS = [
+  { name: "Sara", emails: ["sara@ob-services.com", "sara@ob-mail.com", "sara@ob-remotestaffing.org", "sara@officebeaconhub.com", "sara@office-beacon.cloud", "sara@office-beacon.tech", "sara@office-beacon.info", "sara@office-beacon.site", "sara@myofficebeacon.us"] },
+  { name: "Dipak", emails: ["dipak@officebeaconpro.com", "dipakravat@ob-remotestaffing.com", "dipak@officebeacon.cloud", "dipak@officebeacon.tech", "dipak@officebeacon.services", "dipak@officebeaconhub.com", "dipak@officebeacon.work", "dipak@officebeacon.us", "dipak@obvirtualassistant.net", "dipak@office-beacon.services"] },
+  { name: "Grace", emails: ["grace@office-beacon.tech", "grace@office-beacon.info", "grace@ob-mail.com", "grace@obremotestaffing.net", "grace@office-beacon.site", "grace@ob-remotestaffing.org", "grace@officebeacon.services", "grace@ob-services.com", "grace@office-beacon.cloud", "grace@myofficebeacon.us"] },
+  { name: "Sofia", emails: ["sofia@officebeaconpro.com", "sofia@officebeacon.work", "sofia@officebeacon.tech", "sofia@office-beacon.cloud", "sofia@officebeacon.us", "sofia@office-beacon.services", "sofia.ali@ob-remotestaffing.com", "sofia.ali@obvirtualassistant.net", "sofia@obvirtualassistant.net", "sofia@ob-remotestaffing.pro", "sofia@obvirtualassistant.pro"] },
+  { name: "Sukhi", emails: ["sukhi.s@ob-remotestaffing.com", "sukhi.singh@obvirtualassistant.net", "sukhi@officebeaconpro.com", "sukhi@ob-mail.com", "sukhi@officebeacon.tech", "sukhi@officebeaconsite.com"] },
+];
